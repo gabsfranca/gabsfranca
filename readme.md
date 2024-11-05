@@ -3,7 +3,7 @@
 </div>
 
 <!-- Container com display flex para alinhar esquerda e direita -->
-<div style="display: flex; width: 100%; justify-content: space-between; gap: 10px;">
+<div style="display: flex; width: 100%; justify-content: space-between; gap: 5px;">
   <!-- Div esquerda (stats) -->
   <div style="display: flex; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=gabsfranca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 

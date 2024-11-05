@@ -1,4 +1,20 @@
-<h3 align="left">Currently using and studying:</h3>
+<h3 align="left">About me:</h3>
+
+###
+
+<p align="left">Working at Similar Technology and Automation for a year. Delivering industrial automation and computer vision solutions for the clients, and process automation for internal uses. Unfortunately I can't publish the source codes of the industrial solutions. But you can take a look at them in my linkedin:</p>
+
+###
+
+<div align="left">
+  <a href="https://br.linkedin.com/in/gabriel-menegasso-de-fran%C3%A7a-2a116226b?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">Currently using:</h3>
 
 ###
 

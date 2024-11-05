@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Python: Used for process automation,  Machine Learning (ML) and Computer Vision (CV) applications.<br><br>Node.JS: Used for device communication, leveraging protocols like TCP and ModbusTCP for integration between systems and networked devices.<br><br>Electron + React: Employed for building cross-platform graphical user interfaces.<br><br>C++: Applied in Computer Vision (CV) and industrial automation, taking advantage of performance and low-level control for demanding tasks.</p>
+<p align="left">Python: Used for process automation,  Machine Learning and Computer Vision applications.<br><br>Node.JS: Used for device communication, leveraging protocols like TCP and ModbusTCP for integration between systems and networked devices.<br><br>Electron + React: Employed for building cross-platform graphical user interfaces.<br><br>C++: Applied in Computer Vision (CV) and industrial automation, taking advantage of performance and low-level control for demanding tasks.</p>
 
 ###
 

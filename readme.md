@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Currently using:</h3>
+<h3 align="left">Currently using and studying:</h3>
 
 ###
 

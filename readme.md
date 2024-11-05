@@ -5,7 +5,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" alt="denojs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
   <img width="12" />
@@ -16,11 +16,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
 
 ###
 
-<p align="left">Python: Used for process automation,  Machine Learning and Computer Vision applications.<br><br>Node.JS: Used for device communication, leveraging protocols like TCP and ModbusTCP for integration between systems and networked devices.<br><br>Electron + React: Employed for building cross-platform graphical user interfaces.<br><br>C++: Applied in Computer Vision (CV) and industrial automation, taking advantage of performance and low-level control for demanding tasks.</p>
+<p align="left">I use Python for industrial and process automation,  Machine Learning and Computer Vision applications;<br><br>Deno.JS for device communication, leveraging protocols like TCP and ModbusTCP for integration between systems and networked devices;<br><br>Electron + React for building desktop cross-platform graphical user interfaces;<br><br>C++ for Computer Vision and industrial automation, taking advantage of performance and low-level control for demanding tasks.</p>
 
 ###
 
@@ -31,15 +33,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" alt="denojs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>

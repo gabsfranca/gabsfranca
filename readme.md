@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Currently using and studying:</h3>
+<h3 align="left">Currently using:</h3>
 
 ###
 
@@ -27,6 +27,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -36,7 +40,7 @@
 
 ###
 
-<p align="left">I use Python for industrial and process automation,  Machine Learning and Computer Vision applications;<br><br>Deno.JS for device communication, leveraging protocols like TCP and ModbusTCP for integration between systems and networked devices;<br><br>Electron + React for building desktop cross-platform graphical user interfaces;<br><br>C++ for Computer Vision and industrial automation, taking advantage of performance and low-level control for demanding tasks.</p>
+<p align="left">I use Python for industrial and process automation,  Machine Learning (pytorch), and Computer Vision (opencv) applications;<br><br>Deno.JS for device communication, leveraging protocols like TCP and ModbusTCP for integration between systems and networked devices;<br><br>Electron + React for building desktop cross-platform graphical user interfaces;<br><br>C++ for Computer Vision (opencv) and industrial automation, taking advantage of performance and low-level control for demanding tasks.</p>
 
 ###
 

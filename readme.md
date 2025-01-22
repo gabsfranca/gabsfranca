@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
   <img width="12" />
@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I use Python for industrial and process automation,  Machine Learning (pytorch), and Computer Vision (opencv) applications;<br><br>Deno.JS for device communication, leveraging protocols like TCP and ModbusTCP for integration between systems and networked devices;<br><br>Electron + React for building desktop cross-platform graphical user interfaces;<br>
+<p align="left">I use Python for industrial and process automation,  Machine Learning (pytorch), and Computer Vision (opencv) applications;<br><br>Node.JS for device communication, leveraging protocols like TCP and ModbusTCP for integration between systems and networked devices;<br><br>Electron + React for building desktop cross-platform graphical user interfaces;<br>
 
 ###
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Working at Similar Technology and Automation for a year. Delivering industrial automation and computer vision solutions for the clients, and process automation for internal uses. Unfortunately I can't publish the source codes of the industrial solutions. But you can take a look at them in my linkedin:</p>
+<p align="left">Working at Similar Technology and Automation for a year. Delivering industrial automation, computer vision solutions for the clients, process automation, and fullstack websites for internal uses. Unfortunately I can't publish the source codes of the industrial solutions.:</p>
 
 ###
 

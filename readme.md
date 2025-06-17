@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I use Python for industrial and process automation,  Machine Learning (pytorch), and Computer Vision (opencv) applications;<br><br>Node.JS for device communication, leveraging protocols like TCP and ModbusTCP for integration between systems and networked devices;<br><br>Electron + React for building desktop cross-platform graphical user interfaces;<br>
+<p align="left">Using Go + TS for internal applications, Python for industrial and process automation,  Machine Learning (pytorch), and Computer Vision (opencv) applications;<br><br>Node.JS for device communication, leveraging protocols like TCP and ModbusTCP for integration between systems and networked devices;<br><br>Electron + React for building desktop cross-platform graphical user interfaces;<br>
 
 ###
 

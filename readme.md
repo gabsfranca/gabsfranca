@@ -6,7 +6,7 @@
 from competitive online games to industrial automation interfaces.
 
 I work across the stack: backend APIs with Go and Nest.js, 
-frontends with Next.js and React, desktop apps with Electron, 
+frontends with Next.js and Nuxt, desktop apps with Electron, 
 and integrations with hardware and external devices.
 
 I care about systems that actually work under pressure — 

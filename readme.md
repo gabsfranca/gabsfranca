@@ -23,10 +23,10 @@ Currently open to new opportunities.
 
 ---
 
-<h3 align="left">What I work with:</h3>
+<h3 align="center">What I work with:</h3>
 
-<p align="left"><b>Backend</b></p>
-<div align="left">
+<p align="center"><b>Backend</b></p>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
@@ -34,8 +34,8 @@ Currently open to new opportunities.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" />
 </div>
 
-<p align="left"><b>Frontend & Desktop</b></p>
-<div align="left">
+<p align="center"><b>Frontend & Desktop</b></p>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
@@ -45,8 +45,8 @@ Currently open to new opportunities.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" />
 </div>
 
-<p align="left"><b>ML & Computer Vision</b></p>
-<div align="left">
+<p align="center"><b>ML & Computer Vision</b></p>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />
@@ -54,8 +54,8 @@ Currently open to new opportunities.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 </div>
 
-<p align="left"><b>Infra & Tooling</b></p>
-<div align="left">
+<p align="center"><b>Infra & Tooling</b></p>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />

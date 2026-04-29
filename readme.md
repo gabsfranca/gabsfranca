@@ -2,7 +2,18 @@
 
 ###
 
-<p align="left">Working at Similar Technology and Automation for a year. Delivering industrial automation, computer vision solutions for the clients, process automation, and fullstack websites for internal uses. Unfortunately I can't publish the source codes of the industrial solutions.:</p>
+<p align="left">I'm a fullstack developer with experience building real-time systems —
+from competitive online games to industrial automation interfaces.
+
+I work across the stack: backend APIs with Go and Nest.js, 
+frontends with Next.js and React, desktop apps with Electron, 
+and integrations with hardware and external devices.
+
+I care about systems that actually work under pressure — 
+whether that's 200 players connected simultaneously 
+or a factory floor reading sensor data in real time.
+
+Currently open to new opportunities.:</p>
 
 ###
 

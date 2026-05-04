@@ -81,6 +81,7 @@ Currently open to new opportunities.
 
 <hr>
 
+
 <h3 align="center">Activity</h3>
 
 <table align="center">
